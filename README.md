@@ -1,14 +1,11 @@
-# ConsultHSE
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Хакатон 2024 победитель
+Разработан MVP в рамках хакатона НИУ ВШЕ "Онлайн запись на консультации и связь с преподавателем"
+![](./public/auth.png)
+Студент выбирает преподавателя к которому можно записаться на консультацию
+![](./public/student.png)
+Преподаватель может создавать события и общаться со студентом
+![](./public/teacher.png)
+![](./public/chat.png)
 
 ## Project Setup
 
